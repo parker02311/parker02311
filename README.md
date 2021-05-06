@@ -33,9 +33,9 @@ Questions, comments, or concerns you can find me at:
 
 Need any help coding?
 Sorry, but I am not a teacher and would not be a very great one I recomend you check out whatever documentation you can find. Here are some resources that I use:
-- Roblox Documentation
-- Python Documentation
-- Discord.py Documentation
-- Quart Documentation
-- Flask Documentation
-(All to be linked to websites soon)
+- [Roblox Documentation](https://developer.roblox.com/)
+- [Python Documentation](https://www.python.org/doc/)
+- [Discord.py Documentation](https://discordpy.readthedocs.io/)
+- [Quart Documentation](https://pgjones.gitlab.io/quart/)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [Stack Overflow](https://stackoverflow.com/)
