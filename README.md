@@ -13,16 +13,11 @@ I am parker02311 a Roblox developer who makes tons of code, here on my github yo
 
 ## Projects
 
-- Pembroke Pines Admin System
-- State of Rubicon
-- ~~Redon Tech Products Loader~~
+- To much stuff
 
 ## Planned Projects
 
-- Pembroke Pines Chassis Rework
-- Redon Tech Fire System V2.0 (Open Source)
-- Redon Tech Product Puchasing Hub
-- And Many More!
+- To much stuff
 
 ## Other
 
