@@ -2,7 +2,13 @@
 
 I am parker02311 a Roblox developer who makes tons of code, here on my github you can find all of my open source projects for you to download and setup for 100% free!
 
+## Statistics
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=blue-green)
+
 ## Programming Launguages
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parker02311&theme=blue-green)  
 
 - LUA
 - Python
@@ -14,6 +20,13 @@ I am parker02311 a Roblox developer who makes tons of code, here on my github yo
 ## Projects
 
 - To much stuff
+
+<a href="https://github.com/redon-tech/roblox-purchasing-hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=roblox-purchasing-hub&theme=blue-green" />
+</a>
+<a href="https://github.com/redon-tech/redon-tech-fire-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-tech-fire-system&theme=blue-green" />
+</a>
 
 ## Planned Projects
 
