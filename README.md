@@ -37,7 +37,7 @@ I am parker02311 a Roblox developer who makes tons of code, here on my github yo
 Questions, comments, or concerns you can find me at:
 - Discord: parker02311#3460 (Recomended)
 - YouTube: parker02311
-- Email: parker02311contact@gmail.com
+- Email: parker02311@redon.tech
 
 Need any help coding?
 Sorry, but I am not a teacher and would not be a very great one I recomend you check out whatever documentation you can find. Here are some resources that I use:
