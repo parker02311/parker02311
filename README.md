@@ -2,6 +2,10 @@
 
 I am parker02311 a Roblox developer who makes tons of code, here on my github you can find all of my open source projects for you to download and setup for 100% free!
 
+## Portfolio
+
+View my [portfolio](https://parker02311.redon.tech/)
+
 ## Statistics
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=blue-green)
