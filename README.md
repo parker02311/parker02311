@@ -41,11 +41,11 @@ View my [portfolio](https://parker02311.redon.tech/)
 
 ## Projects
 
-## Primary Redon Tech Projects
+### Primary Redon Tech Projects
 | <a href="https://github.com/redon-tech/Emergency-Vehicle-Creator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=emergency-vehicle-creator&theme=blue-green" /> </a> | <a href="https://github.com/redon-tech/redon-tech-fire-system"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-tech-fire-system&theme=blue-green" /> </a> |
 | - | - |
 
-## Other Projects
+### Other Projects
 - Gran Vista
 - Area - 02
 - Other Redon Tech Projects
