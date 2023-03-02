@@ -22,7 +22,7 @@ View my [portfolio](https://parker02311.redon.tech/)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 
-## Tools and Frameworks
+### Tools and Frameworks
 ![RoJo](https://img.shields.io/badge/RoJo-e13835?style=for-the-badge)
 ![Wally](https://img.shields.io/badge/Wally-ad4646?style=for-the-badge)
 ![Discord.py](https://img.shields.io/badge/Discord.py-3674a8?logo=discord&logoColor=white&style=for-the-badge)
