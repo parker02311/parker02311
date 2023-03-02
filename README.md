@@ -8,33 +8,47 @@ View my [portfolio](https://parker02311.redon.tech/)
 
 ## Statistics
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=blue-green)
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=blue-green) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parker02311&theme=blue-green) |
+| - | - |
 
-## Programming Launguages
+## Tools
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parker02311&theme=blue-green)  
+### Programming Languages
+![Lua](https://img.shields.io/badge/Lua-000080?logo=Lua&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-e44d26?logo=html5%2B%2B&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 
-- LUA
-- Python
-- HTML (More to learn)
-- CSS (More to learn)
-- Javascript/Node (More to learn)
-- C++ (Plan to learn)
+## Tools and Frameworks
+![RoJo](https://img.shields.io/badge/RoJo-e13835?style=for-the-badge)
+![Wally](https://img.shields.io/badge/Wally-ad4646?style=for-the-badge)
+![Discord.py](https://img.shields.io/badge/Discord.py-3674a8?logo=discord&logoColor=white&style=for-the-badge)
+![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=AIOHTTP&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white&style=for-the-badge)
+
+### Infastructure
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10519f?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=Ubuntu&logoColor=white&style=for-the-badge)
+
 
 ## Projects
 
-- To much stuff
+## Primary Redon Tech Projects
+| <a href="https://github.com/redon-tech/Emergency-Vehicle-Creator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=emergency-vehicle-creator&theme=blue-green" /> </a> | <a href="https://github.com/redon-tech/redon-tech-fire-system"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-tech-fire-system&theme=blue-green" /> </a> |
+| - | - |
 
-<a href="https://github.com/redon-tech/Emergency-Vehicle-Creator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=emergency-vehicle-creator&theme=blue-green" />
-</a>
-<a href="https://github.com/redon-tech/redon-tech-fire-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-tech-fire-system&theme=blue-green" />
-</a>
-
-## Planned Projects
-
-- To much stuff
+## Other Projects
+- Gran Vista
+- Area - 02
+- Other Redon Tech Projects
 
 ## Other
 
@@ -45,9 +59,8 @@ Questions, comments, or concerns you can find me at:
 
 Need any help coding?
 Sorry, but I am not a teacher and would not be a very great one I recomend you check out whatever documentation you can find. Here are some resources that I use:
-- [Roblox Documentation](https://developer.roblox.com/)
+- [Roblox Documentation](https://create.roblox.com/docs/)
 - [Python Documentation](https://www.python.org/doc/)
 - [Discord.py Documentation](https://discordpy.readthedocs.io/)
-- [Quart Documentation](https://pgjones.gitlab.io/quart/)
-- [Flask Documentation](https://flask.palletsprojects.com/)
+- [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [Stack Overflow](https://stackoverflow.com/)
