@@ -8,7 +8,7 @@ View my [portfolio](https://parker02311.redon.tech/)
 
 ## Statistics
 
-| ![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=blue-green) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parker02311&theme=blue-green) |
+| ![Statistics](https://github-readme-stats.vercel.app/api?username=parker02311&count_private=true&theme=transparent) | ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parker02311&theme=transparent) |
 | - | - |
 
 ## Tools
@@ -19,7 +19,6 @@ View my [portfolio](https://parker02311.redon.tech/)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-e44d26?logo=html5%2B%2B&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 
 ### Tools and Frameworks
@@ -30,9 +29,10 @@ View my [portfolio](https://parker02311.redon.tech/)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 
 ### Infastructure
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10519f?style=for-the-badge)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10519f?logo=Pterodactyl&style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge)
@@ -42,12 +42,13 @@ View my [portfolio](https://parker02311.redon.tech/)
 ## Projects
 
 ### Primary Redon Tech Projects
-| <a href="https://github.com/redon-tech/Emergency-Vehicle-Creator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=emergency-vehicle-creator&theme=blue-green" /> </a> | <a href="https://github.com/redon-tech/redon-tech-fire-system"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-tech-fire-system&theme=blue-green" /> </a> |
+| <a href="https://github.com/redon-tech/Emergency-Vehicle-Creator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=emergency-vehicle-creator&theme=transparent" /> </a> | <a href="https://github.com/redon-tech/redon-hub"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=redon-hub&theme=transparent" /> </a> |
 | - | - |
+| <a href="https://github.com/redon-tech/weather-systems"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=weather-systems&theme=transparent" /> </a> | <a href="https://github.com/redon-tech/fire-system"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=redon-tech&repo=fire-system&theme=transparent" /> </a> |
 
 ### Other Projects
 - Gran Vista
-- Area - 02
+- Fire Simulations
 - Other Redon Tech Projects
 
 ## Other
